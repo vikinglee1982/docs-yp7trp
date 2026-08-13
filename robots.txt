@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ultesd.cnkitawin.online/sitemap.xml
